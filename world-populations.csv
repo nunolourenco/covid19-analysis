@@ -1,0 +1,242 @@
+Country,Population,Date
+China,1402102760.00,07-Apr-20
+India,1360738303.00,07-Apr-20
+US,329584842.00,07-Apr-20
+Indonesia,266911900.00,01-Jul-19
+Pakistan,219203520.00,07-Apr-20
+Brazil,211358778.00,07-Apr-20
+Nigeria,206139587.00,01-Jul-20
+Bangladesh,168400050.00,07-Apr-20
+Russia,146745098.00,01-Jan-20
+Mexico,126577691.00,01-Jul-19
+Japan,125950000.00,01-Mar-20
+Philippines,108508468.00,07-Apr-20
+Egypt,100219756.00,07-Apr-20
+Ethiopia,98665000.00,01-Jul-19
+Vietnam,96208984.00,01-Apr-19
+DR Congo,89561404.00,01-Jul-20
+Iran,83344705.00,07-Apr-20
+Turkey,83154997.00,31-Dec-19
+Germany,83149300.00,30-Sep-19
+France,67076000.00,01-Mar-20
+Thailand,66490542.00,07-Apr-20
+United Kingdom,66435550.00,30-Jun-18
+Italy,60238522.00,30-Nov-19
+South Africa,58775022.00,01-Jul-19
+Tanzania,55890747.00,01-Jul-19
+Myanmar,54339766.00,01-Jul-19
+South Korea,51780579.00,01-Jul-20
+Colombia,49395678.00,30-Jun-19
+Kenya,47564296.00,31-Aug-19
+Spain,47100396.00,01-Jul-19
+Argentina,44938712.00,01-Jul-19
+Algeria,43000000.00,01-Jan-19
+Sudan,42406315.00,07-Apr-20
+Ukraine,41879904.00,01-Feb-20
+Uganda,40299300.00,01-Jul-19
+Iraq,39127900.00,01-Jul-19
+Poland,38379000.00,31-Jan-20
+Canada,37984942.00,07-Apr-20
+Morocco,35861524.00,07-Apr-20
+Saudi Arabia,34218169.00,01-Jul-19
+Uzbekistan,34113034.00,07-Apr-20
+Malaysia,32742760.00,07-Apr-20
+Afghanistan,32225560.00,01-Jul-19
+Venezuela,32219521.00,30-Jun-19
+Peru,32131400.00,30-Jun-19
+Angola,31127674.00,2020
+Ghana,30280811.00,01-Jul-19
+Mozambique,30066648.00,2020
+Nepal,29996478.00,01-Jul-20
+Yemen,29825968.00,01-Jul-20
+Cameroon,26545864.00,01-Jul-20
+Madagascar,26251309.00,2020
+Ivory Coast,25823071.00,01-Jul-19
+Australia,25670480.00,07-Apr-20
+North Korea,25450000.00,01-Jul-19
+Taiwan,23604265.00,31-Jan-20
+Niger,22314743.00,01-Jul-19
+Sri Lanka,21803000.00,01-Jul-19
+Burkina Faso,20870060.00,01-Jul-19
+Mali,19973000.00,01-Jul-19
+Romania,19405156.00,01-Jan-19
+Malawi,19129952.00,01-Jul-20
+Chile,19107216.00,01-Jul-19
+Kazakhstan,18677552.00,07-Apr-20
+Zambia,17885422.00,01-Jul-20
+Syria,17500657.00,01-Jul-20
+Ecuador,17460104.00,07-Apr-20
+Netherlands,17452781.00,07-Apr-20
+Guatemala,16604026.00,01-Jul-19
+Chad,16244513.00,2020
+Senegal,16209125.00,01-Jul-19
+Somalia,15893219.00,01-Jul-20
+Cambodia,15288489.00,03-Mar-19
+Zimbabwe,15159624.00,01-Jul-19
+South Sudan,12778250.00,01-Jul-19
+Rwanda,12374397.00,01-Jul-19
+Guinea,12218357.00,01-Jul-19
+Benin,11733059.00,01-Jul-19
+Tunisia,11722038.00,01-Jul-19
+Haiti,11577779.00,01-Jul-19
+Belgium,11524454.00,01-Jan-20
+Bolivia,11469896.00,01-Jul-19
+Cuba,11209628.00,31-Dec-18
+Burundi,10953317.00,01-Jul-19
+Greece,10724599.00,01-Jan-19
+Czech Republic,10693939.00,31-Dec-19
+Jordan,10653016.00,07-Apr-20
+Dominican Republic,10358320.00,01-Jul-19
+Sweden,10338368.00,29-Feb-20
+Portugal,10276617.00,31-Dec-18
+Azerbaijan,10067108.00,01-Jan-20
+United Arab Emirates,9890400.00,01-Jul-20
+Hungary,9772756.00,01-Jan-19
+Belarus,9413446.00,04-Oct-19
+Israel,9182250.00,07-Apr-20
+Honduras,9158345.00,01-Jul-19
+Tajikistan,9127000.00,01-Jan-19
+Papua New Guinea,8935000.00,2020
+Austria,8902600.00,01-Jan-20
+Switzerland,8586550.00,30-Sep-19
+Sierra Leone,7901454.00,01-Jul-19
+Togo,7538000.00,01-Jul-19
+Hong Kong (China),7500700.00,31-Dec-19
+Paraguay,7152703.00,01-Jul-19
+Laos,7123205.00,01-Jul-19
+Bulgaria,7000039.00,31-Dec-18
+Serbia,6963764.00,01-Jan-19
+Libya,6871287.00,01-Jul-20
+Lebanon,6825442.00,01-Jul-20
+Kyrgyzstan,6533500.00,01-Feb-20
+El Salvador,6486201.00,01-Jul-20
+Nicaragua,6460411.00,30-Jun-18
+Turkmenistan,6031187.00,01-Jul-20
+Denmark,5822763.00,01-Jan-20
+Singapore,5703600.00,30-Jun-19
+Finland,5527573.00,31-Dec-19
+Congo,5518092.00,01-Jul-20
+Central African Republic,5496011.00,01-Jul-19
+Slovakia,5456362.00,30-Sep-19
+Norway,5367580.00,01-Jan-20
+Costa Rica,5058007.00,30-Jun-19
+Palestine,4976684.00,01-Jul-19
+New Zealand,4976258.00,07-Apr-20
+Ireland,4921500.00,01-Apr-19
+Oman,4664790.00,01-Jan-20
+Liberia,4475353.00,01-Jul-19
+Kuwait,4420110.00,01-Jan-19
+Panama,4218808.00,01-Jul-19
+Mauritania,4077347.00,01-Jul-19
+Croatia,4076246.00,31-Dec-18
+Georgia,3723464.00,01-Jan-19
+Uruguay,3518552.00,30-Jun-19
+Eritrea,3497117.00,01-Jul-19
+Mongolia,3311410.00,07-Apr-20
+Bosnia and Herzegovina,3301000.00,01-Jul-19
+Puerto Rico (US),3193694.00,01-Jul-19
+Armenia,2957500.00,30-Sep-19
+Albania,2845955.00,01-Jan-20
+Lithuania,2793471.00,01-Mar-20
+Qatar,2747282.00,30-Sep-19
+Jamaica,2726667.00,31-Dec-18
+Moldova,2681735.00,01-Jan-19
+Namibia,2458936.00,01-Jul-19
+Gambia,2347706.00,01-Jul-19
+Botswana,2338851.00,01-Jul-19
+Gabon,2172579.00,01-Jul-19
+Slovenia,2094060.00,01-Oct-19
+North Macedonia,2077132.00,31-Dec-18
+Lesotho,2007201.00,10-Apr-16
+Latvia,1906800.00,01-Feb-20
+Kosovo,1795666.00,31-Dec-18
+Guinea-Bissau,1604528.00,01-Jul-19
+Bahrain,1543300.00,01-Jul-19
+East Timor,1387149.00,01-Jul-19
+Trinidad and Tobago,1363985.00,30-Jun-19
+Equatorial Guinea,1358276.00,01-Jul-18
+Estonia,1328360.00,01-Jan-20
+Mauritius,1265985.00,01-Jul-19
+Eswatini,1093238.00,11-May-17
+Djibouti,1078373.00,01-Jul-19
+Fiji,884887.00,17-Sep-17
+Cyprus,875900.00,31-Dec-18
+Comoros,873724.00,01-Jul-19
+Guyana,782766.00,01-Jul-19
+Bhutan,741672.00,01-Jul-19
+Solomon Islands,680806.00,01-Jul-19
+Macau (China),679600.00,31-Dec-19
+Montenegro,622359.00,01-Jan-18
+Luxembourg,626108.00,01-Jan-20
+Western Sahara,582463.00,01-Jul-19
+Suriname,581372.00,01-Jul-19
+Cape Verde,550483.00,01-Jul-19
+Malta,493559.00,31-Dec-18
+Transnistria,469000.00,01-Jan-18
+Brunei,442400.00,01-Jul-18
+Belize,408487.00,01-Jul-19
+Bahamas,385340.00,01-Jul-19
+Maldives,374775.00,31-Dec-18
+Iceland,364260.00,31-Dec-19
+Northern Cyprus,351965.00,31-Dec-17
+Vanuatu,304500.00,01-Jul-18
+Barbados,287025.00,01-Jul-19
+New Caledonia (France),282200.00,01-Jan-18
+French Polynesia (France),275918.00,17-Aug-17
+Abkhazia,244832.00,01-Jan-18
+São Tomé and Príncipe,201784.00,01-Jul-18
+Samoa,200874.00,01-Jul-19
+Saint Lucia,178696.00,01-Jul-18
+Guam (US),172400.00,01-Jul-18
+Curaçao (Netherlands),158665.00,01-Jan-19
+Artsakh,148000.00,01-Jan-19
+Kiribati,120100.00,01-Jul-18
+Aruba (Netherlands),112309.00,31-Mar-19
+Grenada,112003.00,01-Jul-19
+Saint Vincent and the Grenadines,110608.00,01-Jul-19
+Jersey (UK),106800.00,31-Dec-18
+U.S. Virgin Islands (US),104578.00,01-Jul-19
+F.S. Micronesia,104468.00,01-Jul-19
+Tonga,100651.00,30-Nov-16
+Seychelles,97625.00,30-Jun-19
+Antigua and Barbuda,96453.00,01-Jul-19
+Isle of Man (UK),83314.00,24-Apr-16
+Andorra,77543.00,31-Dec-19
+Dominica,71808.00,01-Jul-19
+Cayman Islands (UK),65813.00,31-Dec-18
+Bermuda (UK),64027.00,01-Jul-19
+Guernsey (UK),62792.00,31-Mar-19
+American Samoa (US),56700.00,01-Jul-18
+Greenland (Denmark),56081.00,01-Jan-20
+Northern Mariana Islands (US),56200.00,01-Jul-18
+Marshall Islands,55500.00,01-Jul-18
+South Ossetia,53532.00,15-Oct-15
+Saint Kitts and Nevis,52823.00,01-Jul-19
+Faroe Islands (Denmark),52124.00,01-Jan-20
+Turks and Caicos Islands (UK),41369.00,01-Jul-18
+Sint Maarten (Netherlands),40614.00,01-Jan-18
+Liechtenstein,38749.00,31-Dec-19
+Monaco,38300.00,31-Dec-18
+Saint Martin (France),35746.00,01-Jan-16
+Gibraltar (UK),33701.00,01-Jul-19
+San Marino,33574.00,31-Dec-19
+British Virgin Islands (UK),30030.00,01-Jul-19
+Åland Islands (Finland),29885.00,31-Jan-20
+Palau,17900.00,01-Jul-18
+Cook Islands (NZ),15200.00,01-Jul-18
+Anguilla (UK),14869.00,01-Jul-19
+Wallis and Futuna (France),11700.00,01-Jul-18
+Nauru,11000.00,01-Jul-18
+Tuvalu,10200.00,01-Jul-18
+Saint Barthélemy (France),9793.00,01-Jan-16
+Saint Pierre and Miquelon (France),6008.00,01-Jan-16
+"Saint Helena, Ascension",5633.00,07-Feb-16
+Montserrat (UK),4989.00,01-Jul-19
+Falkland Islands (UK),3198.00,09-Oct-16
+Christmas Island (Australia),1928.00,30-Jun-18
+Norfolk Island (Australia),1756.00,30-Jun-18
+Niue (NZ),1520.00,01-Jul-18
+Tokelau (NZ),1400.00,01-Jul-18
+Vatican City,799.00,01-Jul-19
+Cocos (Keeling) Islands (Australia),538.00,30-Jun-18
+Pitcairn Islands (UK),50.00,01-Jan-19
